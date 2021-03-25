@@ -1,12 +1,13 @@
 ---
 title: "First_Repro"
-output: pdf_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+I am adding some text to make a changed document and changing to html
 
 ```{r cars}
 summary(cars)
